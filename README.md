@@ -1,1 +1,7 @@
-# data-cleaning-with-pandas-fall-2020
+# Data Cleaning with Python and Pandas
+
+
+
+# Resources
+- [Google Slides](google.com)
+- [YouTube Video](google.com)
