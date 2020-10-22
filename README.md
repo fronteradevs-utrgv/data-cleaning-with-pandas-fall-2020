@@ -16,3 +16,4 @@ Data is ubiquitous. Pre-processing data allows businesses to avoid poor analysis
 
 ## Resources
 - [Slides](google.com)
+- 
